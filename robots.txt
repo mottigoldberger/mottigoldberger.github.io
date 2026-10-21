@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mottigoldberger.github.io/sitemap.xml
